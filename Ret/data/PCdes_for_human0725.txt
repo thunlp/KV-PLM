@@ -1,0 +1,2000 @@
+【0】
+PubChem ID: 133503
+
+SMILES: C1CC1(C(=O)O)NC(=O)CC(=O)O
+
+A. It derives from a decanoic acid
+B. It has a role as a metabolite and an anti-inflammatory agent
+C. Contact may irritate skin, eyes and mucous membranes
+D. it exists as a solid, soluble (in water), and a weakly acidic compound (based on its pKa)
+
+【1】
+PubChem ID: 91825654
+
+SMILES: C[C@H]1CC=C2[C@H]([C@]1(C)CC/C(=C/C[N+]3=C(C4=C(N=C3)N(C=N4)[C@H]5[C@@H]([C@@H]([C@H](O5)CO)O)O)N)/C)CCCC2(C)C
+
+A. It has a role as a bacterial metabolite
+B. Vapors are heavier than air
+C. it is slightly soluble (in water) and an extremely weak acidic (essentially neutral) compound (based on its pKa)
+D. These are organic compounds containing a disulfide group R-SS-R' where R and R' are both alkyl groups
+
+【2】
+PubChem ID: 5702692
+
+SMILES: CCN\1C2=CC=CC=C2O/C1=C\C=C\C=C\C3=[N+](C4=CC=CC=C4O3)CC.[I-]
+
+A. it is a DEA Schedule III controlled substance
+B. it is considered to be a practically insoluble (in water) and relatively neutral molecule
+C. It has a role as a fluorochrome
+D. These are monoterpenoids with a structure based on the o-, m-, or p-menthane backbone
+
+【3】
+PubChem ID: 15592253
+
+SMILES: C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)O[C@@H]3[C@@H]([C@H]([C@H]([C@H](O3)C(=O)O)O)O)O)O)O
+
+A. It has a role as a mouse metabolite
+B. It derives from a dTDP-D-glucose
+C. A bacteriostatic antibiotic macrolide produced by Streptomyces erythreus
+D. It has a role as a marine xenobiotic metabolite and a drug metabolite
+
+【4】
+PubChem ID: 23668197
+
+SMILES: [O-]Cl=O.[Na+]
+
+A. Contact may cause irritation to skin, eyes, and mucous membranes
+B. This prevents bacterial protein synthesis
+C. May explode under prolonged exposure to heat or fire
+D. It has a role as a fundamental metabolite and a cofactor
+
+【5】
+PubChem ID: 619337
+
+SMILES: CC1C2CCC3(C(C2OC1=O)C(C=CC3=O)(C)O)C
+
+A. Contact may irritate skin, eyes and mucous membranes
+B. it appears as a colorless fuming liquid with a pungent odor
+C. These are terpenoids with a structure based on the eudesmanolide (a 3, 5a, 9-trimethyl-naphtho[1, 2-b]furan-2-one derivative) or secoeudesmanolide (a 3, 6-dimethyl-5-(pentan-2-yl)-1-benzofuran-2-one derivative) skeleton
+D. It has a role as a histological dye, a fluorochrome and a carcinogenic agent
+
+【6】
+PubChem ID: 160556
+
+SMILES: C(CCN[C@@H](CCC(=O)O)C(=O)O)C[C@@H](C(=O)O)N
+
+A. This interrupts bacterial cell wall synthesis and results in the weakening of the bacterial cell wall and causes cell lysis
+B. It has a role as a vasodilator agent
+C. Used as an insecticide
+D. It has a role as a human metabolite, a Saccharomyces cerevisiae metabolite and a mouse metabolite
+
+【7】
+PubChem ID: 122812
+
+SMILES: C1=CC(C(C1O)O)(C#N)OC2C(C(C(C(O2)CO)O)O)O
+
+A. it exists as a solid, soluble (in water), and a very weakly acidic compound (based on its pKa)
+B. However, compare with octreotide, this agent is less potent in inhibiting the release of growth hormone from the pituitary gland
+C. It has a role as a micronutrient
+D. It has a role as a human xenobiotic metabolite and a marine xenobiotic metabolite
+
+【8】
+PubChem ID: 9024
+
+SMILES: CC(=O)OC(C)(C)CC1=CC=CC=C1
+
+A. it is a DEA Schedule I controlled substance
+B. These are organic compounds containing a phenylpropane moiety
+C. It derives from an ethanol
+D. It has a role as a volatile oil component
+
+【9】
+PubChem ID: 468682
+
+SMILES: CCC(C)CC(C)CCCCCCCCC(=O)N[C@H]1C[C@H]([C@@H](NC(=O)[C@@H]2[C@H](CCN2C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H]3C[C@H](CN3C(=O)[C@@H](NC1=O)[C@@H](C)O)O)[C@@H]([C@H](C4=CC=C(C=C4)O)O)O)[C@@H](CCN)O)O)NCCN)O
+
+A. Slightly soluble in water
+B. This agent is active against Aspergillus and Candida species
+C. Compared to the second and first generation cephalosporins, ceftriaxone is more active against gram-negative bacteria and less active against gram-positive bacteria
+D. It derives from a hydride of a pentane
+
+【10】
+PubChem ID: 528707
+
+SMILES: CC1C(C(=O)C(=C1C)O)C
+
+A. This agent also inhibits the drug efflux pump P-glycoprotein which is overexpressed in multi-drug resistant tumors and may improve the efficacy of some antineoplastic agents
+B. It derives from a pyruvic acid
+C. It derives from a hydride of a 5alpha-cholestane
+D. These are organic compounds containing a ketone that is conjugated to a cyclic moiety
+
+【11】
+PubChem ID: 5164
+
+SMILES: C1CNCCC1N2C=NC(=C2C3=NC(=NC=C3)N)C4=CC=C(C=C4)F
+
+A. It has a role as an EC 2
+B. It has a role as a sedative
+C. These are aliphatic alcohols consisting of a chain of a least six carbon atoms
+D. It has a role as a human urinary metabolite and a human xenobiotic metabolite
+
+【12】
+PubChem ID: 7344
+
+SMILES: CCOC(=O)C(C)O
+
+A. It contains an iron(3+)
+B. This binding process inhibits peptidyl transferase activity and interferes with translocation of amino acids during translation and assembly of proteins
+C. It derives from an apigenin
+D. Vapors heavier than air
+
+【13】
+PubChem ID: 10961
+
+SMILES: [C-]#N.[C-]#N.[Ba+2]
+
+A. It derives from a hydride of a lupane
+B. It has a role as an antidepressant
+C. it appears as a white crystalline solid
+D. These are diterpene alkaloids with a structure that is based on the kaurane skeleton
+
+【14】
+PubChem ID: 40692
+
+SMILES: C1CCN[C@H](C1)[C@H](C2=CC(=NC3=C2C=CC=C3C(F)(F)F)C(F)(F)F)O
+
+A. it is an organic sodium salt
+B. It has a role as an antimalarial
+C. it has been detected in multiple biofluids, such as feces and saliva
+D. it is a sulfonamide derivative with antihyperglycemic activity
+
+【15】
+PubChem ID: 165067
+
+SMILES: C1CC=NC(C1)C(=O)O
+
+A. It derives from a propan-1-ol
+B. Hence sinks in water
+C. it is slightly soluble (in water) and a very weakly acidic compound (based on its pKa)
+D. It has a role as a mammalian metabolite
+
+【16】
+PubChem ID: 529885
+
+SMILES: CC1(C2CCC(O1)(C(C2)O)C)C
+
+A. These are steroids with a structure based on a hydroxylated prostane moiety
+B. it is slightly soluble (in water) and a very weakly acidic compound (based on its pKa)
+C. It derives from a scutellarein
+D. Irritates skin, eyes and mucous membranes
+
+【17】
+PubChem ID: 115074
+
+SMILES: CCCCCCCCC(CCCCCCCCCCC(=O)O)O
+
+A. It derives from a (2S)-flavanone
+B. It has a role as a metabolite, an EC 3
+C. These are organic compounds containing an acyl moiety of benzoic acid with the formula (C6H5CO-)
+D. it has been primarily detected in urine
+
+【18】
+PubChem ID: 78385
+
+SMILES: C1=CSC(=C1)C(=O)CCC(=O)O
+
+A. Within the cell, is primarily located in the membrane (predicted from logP)
+B. It derives from a butyric acid
+C. it is slightly soluble (in water) and an extremely weak basic (essentially neutral) compound (based on its pKa)
+D. It has a role as an insecticide
+
+【19】
+PubChem ID: 4075
+
+SMILES: C1=CC(=C(C=C1N)C(=O)O)O
+
+A. It has been isolated from the roots of Rubia yunnanensis
+B. It derives from a salicylic acid
+C. In model 2, contains at least two galloyl units C-C coupled to each other, and do not contain a glycosidically linked catechin unit
+D. Used as a solvent
+
+【20】
+PubChem ID: 136759
+
+SMILES: CC(C)(C)C1CCC(CC1)C(=O)O
+
+A. It derives from a butan-1-ol
+B. It has a role as a dopamine uptake inhibitor
+C. it is a crystalline solid
+D. It has a role as a metabolite
+
+【21】
+PubChem ID: 7966
+
+SMILES: C1CCC(CC1)O
+
+A. Not registered as a pesticide in the U
+B. it also causes a decrease in the formation of thromboxane A2 synthesis, by thromboxane synthase, thereby inhibiting platelet aggregation
+C. It has a role as a solvent
+D. It is a straight-chain saturated fatty acid and a medium-chain fatty acid
+
+【22】
+PubChem ID: 534607
+
+SMILES: CC1CCCCCCCCCCC(=O)OC1
+
+A. it belongs to the class of organic compounds known as 2, 4, 5-trisubstituted oxazoles
+B. These are phenolic compounds containing a flavonoid moiety which is O-glycosidically linked to carbohydrate moiety at the C7-position
+C. it is considered to be a practically insoluble (in water) and relatively neutral molecule
+D. It has a role as an antifungal agent
+
+【23】
+PubChem ID: 102604
+
+SMILES: CC(CCCC(=O)C)CCC=C(C)C
+
+A. it is considered to be a practically insoluble (in water) and relatively neutral molecule
+B. Possible bluish color depending on copper content
+C. It derives from a hydride of a (2S)-flavan
+D. It has a role as a human metabolite, a Saccharomyces cerevisiae metabolite and a mouse metabolite
+
+【24】
+PubChem ID: 71602
+
+SMILES: CC(=O)NNC(=O)C1=CC=NC=C1
+
+A. It has a role as a metabolite
+B. it is a colorless, odorless gas
+C. It derives from a hexadecanoic acid
+D. Denser than water and slightly soluble in water
+
+【25】
+PubChem ID: 45266570
+
+SMILES: CC(C)C(=O)SCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)([O-])OP(=O)([O-])OC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=NC3=C(N=CN=C32)N)O)OP(=O)([O-])[O-])O
+
+A. It has a role as a human metabolite
+B. It has a role as a surfactant
+C. It derives from a formamide
+D. This may lead to skeletal muscle relaxation and paralysis
+
+【26】
+PubChem ID: 3902
+
+SMILES: C1=CC(=CC=C1C#N)C(C2=CC=C(C=C2)C#N)N3C=NC=N3
+
+A. It has a role as a xenobiotic and an environmental contaminant
+B. It has a role as an antineoplastic agent and an EC 1
+C. Vapors are heavier than air
+D. It has a role as a biomarker
+
+【27】
+PubChem ID: 6432530
+
+SMILES: C[C@@]1(CCC2C1(CCC3C2CC[C@@H]4C3(COC(=O)C4)C)C)O
+
+A. It derives from a hydride of an isopentane
+B. It derives from a 4-nitrophenol
+C. Substances in the DEA Schedule III have a potential for abuse less than substances in Schedules I or II and abuse may lead to moderate or low physical dependence or high psychological dependence
+D. These are glycerides consisting of three fatty acid chains covalently bonded to a glycerol molecule through ester linkages
+
+【28】
+PubChem ID: 164628
+
+SMILES: CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)O)O
+
+A. Practically insoluble in water
+B. It has a role as an Escherichia coli metabolite and a mouse metabolite
+C. Contact may severely irritate skin, eyes, and mucous membranes
+D. it exists as a liquid and is considered to be practically insoluble (in water) and relatively neutral
+
+【29】
+PubChem ID: 439430
+
+SMILES: C[C@@H](C[C@@H](CC(=O)O)N)N
+
+A. it belongs to the class of organic compounds known as benzene and substituted derivatives
+B. It derives from a hexanoic acid
+C. This agent may act synergistically with other chemotherapeutic agents
+D. This agent also inhibits the drug efflux pump P-glycoprotein which is overexpressed in multi-drug resistant tumors and may improve the efficacy of some antineoplastic agents
+
+【30】
+PubChem ID: 133221
+
+SMILES: CC(C)C1=C(C2=C(C=C1)[C@@]3(CCC4=C([C@H]3CC2=O)COC4=O)C)O
+
+A. It has a role as a plant metabolite
+B. It derives from a phenol
+C. It has a role as a human xenobiotic metabolite and a marine xenobiotic metabolite
+D. Toxic by inhalation and ingestion
+
+【31】
+PubChem ID: 2578
+
+SMILES: C(CCl)NC(=O)N(CCCl)N=O
+
+A. Irritates skin and eyes
+B. It has a role as an alkylating agent and an antineoplastic agent
+C. It derives from an isobutanol
+D. it has been detected in multiple biofluids, such as feces and saliva
+
+【32】
+PubChem ID: 99931
+
+SMILES: CCCCCCCCCCCCCCCC(=O)OCC(CO)OC(=O)CCCCCCCCCCCCCCC
+
+A. It derives from a hexadecanoic acid
+B. Substances in the DEA Schedule II have a high potential for abuse which may lead to severe psychological or physical dependence
+C. Proline and derivatives are compounds containing proline or a derivative thereof resulting from reaction of proline at the amino group or the carboxy group, or from the replacement of any hydrogen of glycine by a heteroatom
+D. This substance is a known human carcinogen and is associated with an increased risk of developing lung cancer and cancer of the sinonasal cavity
+
+【33】
+PubChem ID: 92329211
+
+SMILES: C=CC1=C(N2[C@H]([C@H](C2=O)NC(=O)/C(=N\OCC(=O)O)/C3=CSC(=N3)N)SC1)C(=O)O
+
+A. it is a colorless solid
+B. It has a role as a chromatographic reagent
+C. It derives from a propionic acid
+D. Stable in the presence of a variety of beta-lactamases, this agent is more active against gram-negative bacteria and less active against gram-positive bacteria compared to second-generation cephalosporins
+
+【34】
+PubChem ID: 5284632
+
+SMILES: C1CC[N+]2(C1)[C@@H]3CC[C@H]2CC(C3)OC(=O)C(C4=CC=CC=C4)(C5=CC=CC=C5)O
+
+A. It has a role as an antimicrobial agent
+B. Sinks and mixes slowly with water
+C. Insoluble in water and about the same density as water
+D. It has a role as a muscarinic antagonist and an antispasmodic drug
+
+【35】
+PubChem ID: 444394
+
+SMILES: C1C[C@@H]([C@H](C[C@H]1C2=CC=CC=C2)O)C3=CC=C(C=C3)C(=O)NCCCC(=O)O
+
+A. it is an optically active form of it having L-configuration
+B. It derives from a hydride of an oleanane
+C. It derives from a gamma-aminobutyric acid
+D. These are monoterpenoids with a structure based on the o-, m-, or p-menthane backbone
+
+【36】
+PubChem ID: 40467846
+
+SMILES: C([C@H](C(=O)[O-])OP(=O)([O-])[O-])O
+
+A. It has a role as a marine metabolite
+B. it exists as a liquid and is considered to be practically insoluble (in water) and relatively neutral
+C. Used as a solvent and to make other chemicals
+D. It has a role as a human metabolite and a Saccharomyces cerevisiae metabolite
+
+【37】
+PubChem ID: 7531
+
+SMILES: CC(C)(CC1=CC=CC=C1)O
+
+A. Hence sinks in water
+B. This makes it a potential biomarker for the consumption of this food product
+C. It has a role as a tyrosine kinase inhibitor and an antineoplastic agent
+D. It derives from a luteolin
+
+【38】
+PubChem ID: 36247
+
+SMILES: CC(C)CCCCCCCCCCCCC(=O)O
+
+A. It has a role as a human xenobiotic metabolite and a marine xenobiotic metabolite
+B. It derives from a pentadecanoic acid
+C. Among the sugar units found in natural glycosides are D-glucose, L-Fructose, and L rhamnose
+D. It derives from an adenosine
+
+【39】
+PubChem ID: 12198
+
+SMILES: CC(COC(=O)C)OC(=O)C
+
+A. This makes a potential biomarker for the consumption of this food product
+B. It has a role as a bone density conservation agent
+C. These are organic compounds containing a coenzyme A substructure linked to an acyl chain
+D. These are organic compounds containing exactly two carboxylic acid groups
+
+【40】
+PubChem ID: 11873
+
+SMILES: C1=C(C=C(C(=C1C(=O)O)O)[N+](=O)[O-])[N+](=O)[O-]
+
+A. It has a role as an animal metabolite
+B. It has a role as a dopamine uptake inhibitor
+C. It derives from a salicylic acid
+D. it exists as a liquid and is considered to be practically insoluble (in water) and relatively neutral
+
+【41】
+PubChem ID: 25023212
+
+SMILES: CC[C@H](C)[C@H]1C(=O)N2CCC[C@H]2C(=O)O[C@@H](C[C@H](C/C=C\C3=N[C@@H](CCC(=O)N[C@H](C(=O)N([C@H](C(=O)N1C)C)C)CC4=CC=C(C=C4)OC)CS3)C)C(C)(C)C
+
+A. Flash point below 0Â°F
+B. It derives from a hydride of a p-menthane
+C. it has been primarily detected in urine
+D. It has a role as a metabolite and an antineoplastic agent
+
+【42】
+PubChem ID: 352039
+
+SMILES: CC(C)CC(C(=O)O)NC(=O)C(C(C)C)N
+
+A. It is slightly soluble in water
+B. It derives from a flavone
+C. The steroidal aglycone is usually a spirostane, furostane, spirosolane, solanidane, or curcubitacin derivative
+D. These are organic compounds containing a sequence of exactly two alpha-amino acids joined by a peptide bond
+
+【43】
+PubChem ID: 5316821
+
+SMILES: C1=CC(=C(C=C1CCO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O
+
+A. Vapors heavier than air
+B. It has a role as a metabolite and an antioxidant
+C. Hence sinks in water
+D. The most important structural features causing the biological activities of trichothecenes are the 12, 13-epoxy ring, the presence of hydroxyl or acetyl groups at appropriate positions on the trichothecene nucleus and the structure and position of the side-chain
+
+【44】
+PubChem ID: 8184
+
+SMILES: CCCCCCCCCCCO
+
+A. This results in the weakening of the bacterial cell wall and causes cell lysis
+B. These are sterol lipids with a structure based on the stigmastane skeleton, which consists of a cholestane moiety bearing an ethyl group at the carbon atom C24
+C. it is an organic sodium salt
+D. Immediate steps should be taken to limit its spread to the environment
+
+【45】
+PubChem ID: 71648
+
+SMILES: COC1=CC(=CC(=C1)O)O
+
+A. These are organic compounds containing a phenylpropane moiety
+B. It derives from a phloroglucinol
+C. These are aliphatic alcohols consisting of a chain of a least six carbon atoms
+D. It has a role as a sedative
+
+【46】
+PubChem ID: 61546
+
+SMILES: [Mg+2].[Mg+2].[Mg+2].[P-3].[P-3]
+
+A. These are aliphatic alcohols consisting of a chain of a least six carbon atoms
+B. It derives from a hydride of a morphinan
+C. It is used to make other chemicals
+D. It derives from a 7H-xanthine
+
+【47】
+PubChem ID: 9812715
+
+SMILES: CCCCCCCCCCNCCN[C@]1(C[C@@H](O[C@H]([C@H]1O)C)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)[C@H]([C@H](C(=O)N[C@H](C(=O)N[C@H]5C(=O)N[C@@H]7C8=CC(=C(C=C8)O)C9=C(C(=C(C=C9[C@H](NC(=O)[C@H]([C@@H](C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)O)CNCP(=O)(O)O)O)CC(=O)N)NC(=O)[C@@H](CC(C)C)NC)O)Cl)CO)O)O)C.Cl
+
+A. Floats and mixes with water
+B. It derives from a (2S)-flavanone
+C. It has a role as an antibacterial drug and an antimicrobial agent
+D. Used to make dyes and other chemicals
+
+【48】
+PubChem ID: 31254
+
+SMILES: CNC=O
+
+A. This may lead to skeletal muscle relaxation and paralysis
+B. An antiprotozoal agent produced by Streptomyces cinnamonensis
+C. It derives from a formamide
+D. It has a role as an antineoplastic agent
+
+【49】
+PubChem ID: 71362816
+
+SMILES: C1(=O)C2(C(=O)NC(=O)N2)N=C(N1)N
+
+A. These are monoterpenoids containing exactly 2 rings, which are fused to each other
+B. Furthermore, its inhibitory action on smooth muscle prevents bladder contraction and decreases gastrointestinal motility
+C. It derives from a hydantoin
+D. Used to make dyes and other chemicals
+
+【50】
+PubChem ID: 440194
+
+SMILES: [C@H]1([C@@H](C([C@H]([C@@H](C1O)O)O)OP(=O)(O)O)O)O
+
+A. It has a role as a mammalian metabolite
+B. It has a role as a mouse metabolite
+C. In addition, other substances that promote acid secretion have a reduced effect on parietal cells when the H2 receptors are blocked
+D. These are diterpene alkaloids with a structure that is based on the kaurane skeleton
+
+【51】
+PubChem ID: 156203
+
+SMILES: CC1CCC2=C(C(=O)OC2(C1)O)C
+
+A. It derives from a benzoic acid
+B. Outside of the human body, it can be found in herbs and spices
+C. These are prenol lipids containing a lactone ring
+D. It derives from a cholesterol
+
+【52】
+PubChem ID: 33565
+
+SMILES: C1CN(CCN1C(C(Cl)(Cl)Cl)NC=O)C(C(Cl)(Cl)Cl)NC=O
+
+A. It has a role as a chromatographic reagent
+B. it appears as colorless crystals
+C. These are organic compounds containing dihydrochalcone skeleton that carries a hydroxyl group at the 2'-position
+D. Possible bluish color depending on copper content
+
+【53】
+PubChem ID: 165198
+
+SMILES: C1=CC(=C(C=C1CC(=O)C(=O)O)O)O
+
+A. It has a role as a human urinary metabolite and a human xenobiotic metabolite
+B. It has a role as a protic solvent
+C. It is found in animals and plants, especially in sugar cane and sugar beets
+D. It has a role as a metabolite
+
+【54】
+PubChem ID: 529068
+
+SMILES: CC1N2CCCC2SC(S1)C
+
+A. It has a role as an EC 3
+B. These are cyclic compounds that contain a dithiazinane ring, which is a saturated heterocycle that consisting of one nitrogen atom, two sulfur atoms at the 1-, 3-, and 5- position, respectively
+C. A bacteriostatic antibiotic macrolide produced by Streptomyces erythreus
+D. May irritate skin and eyes
+
+【55】
+PubChem ID: 11153672
+
+SMILES: CC(=CCC1=C(C(=CC2=C1C(=O)C3=C(O2)C(=C(C=C3O)O)C(C)(C)C=C)O)O)C
+
+A. Slightly soluble in water and denser than water
+B. It is a member of xanthones and a polyphenol
+C. It has a role as a xenobiotic metabolite
+D. Denser than water and soluble in water
+
+【56】
+PubChem ID: 11205153
+
+SMILES: CC1=C(C(=CS1)C(=O)OC)S(=O)(=O)NC(=O)N2C(=O)N(C(=N2)OC)C
+
+A. It has a role as an antineoplastic agent and a bacterial metabolite
+B. It has a role as an EC 2
+C. it belongs to the class of organic compounds known as heteroaromatic compounds
+D. It derives from a hydride of an ergotaman
+
+【57】
+PubChem ID: 33772
+
+SMILES: C12C(C(C3(C1O3)Cl)Cl)C4(C(=C(C2(C4(Cl)Cl)Cl)Cl)Cl)Cl
+
+A. It derives from a salicylic acid
+B. An antiprotozoal agent produced by Streptomyces cinnamonensis
+C. it is considered to be a practically insoluble (in water) and relatively neutral molecule
+D. These inhibitory effects cause a decrease in saliva, bronchial mucus, gastric juices, and sweat
+
+【58】
+PubChem ID: 75664
+
+SMILES: CC1=C(C=CS1)S
+
+A. These are terpene compounds formed by four isoprene units
+B. It derives from a malonic acid
+C. These are flavonoids with methoxy groups attached to the C7 atom of the flavonoid backbone
+D. Within the cell, it is primarily located in the cytoplasm
+
+【59】
+PubChem ID: 3239
+
+SMILES: CC(C)C(C)C(C(C(C)C1CCC2C1(CCC3C2COC(=O)C4C3(CC(C(C4)O)O)C)C)O)O
+
+A. It has a role as a volatile oil component
+B. It has a role as an oxidising agent
+C. it has been found in human hepatic tissue tissue, and has also been primarily detected in urine
+D. Denser than water and soluble in water
+
+【60】
+PubChem ID: 73558
+
+SMILES: C1=CC=C(C=C1)C(C(=O)N)O
+
+A. It derives from a phenylacetic acid
+B. This results in an induction of the synthesis of certain anti-inflammatory proteins while inhibiting the synthesis of certain inflammatory mediators
+C. These are prenol lipids containing a lactone ring
+D. It has a role as an antihypertensive agent
+
+【61】
+PubChem ID: 7843
+
+SMILES: CCCC
+
+A. it binds to and inactivates penicillin-binding proteins (PBP) located on the inner membrane of the bacterial cell wall
+B. It derives from a hydride of a beta-carotene
+C. Contact with the liquid can cause frostbite
+D. It has a role as a herbicide, a xenobiotic and an environmental contaminant
+
+【62】
+PubChem ID: 119900
+
+SMILES: C[C@@H]1CC[C@H]([C@@H](C1)OC(=O)CC(C)C)C(C)C
+
+A. it binds to and inactivates penicillin-binding proteins (PBP) located on the inner membrane of the bacterial cell wall
+B. it exists as a solid, slightly soluble (in water), and a moderately acidic compound (based on its pKa)
+C. When orally administered, this agent is minimally absorbed into the systemic circulation, acting locally in the gastrointestinal tract
+D. The o- and m- menthanes are much rarer, and presumably arise by alkyl migration of p-menthanes
+
+【63】
+PubChem ID: 367141
+
+SMILES: C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O
+
+A. it is considered to be a practically insoluble (in water) and relatively neutral molecule
+B. Outside of the human body, it can be found in coffee and coffee products
+C. About the same density as water
+D. It derives from a hydride of a (R)-isoflavan
+
+【64】
+PubChem ID: 590836
+
+SMILES: CC(C)CCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCC(C)C
+
+A. It derives from an anthranilic acid
+B. It has a role as an antineoplastic agent and an EC 1
+C. One of a series of an extensive set of 4\
+D. It is a phthalate ester and a diester
+
+【65】
+PubChem ID: 5280733
+
+SMILES: CCCCC/C=C\C/C=C\C/C=C\C=C\[C@H](CCCC(=O)O)O
+
+A. It has a role as a human metabolite and a mouse metabolite
+B. It derives from a formic acid
+C. It is a member of pyrazoles and a monocarboxylic acid
+D. Contact may severely irritate skin, eyes, and mucous membranes
+
+【66】
+PubChem ID: 522067
+
+SMILES: CC(CCCC(=O)O)C(=O)O
+
+A. it is soluble (in water) and a weakly acidic compound (based on its pKa)
+B. It derives from a hydride of a biphenyl
+C. It has been isolated from the aerial parts of Inula hupehensis
+D. it belongs to the class of organic compounds known as carbazoles
+
+【67】
+PubChem ID: 11279
+
+SMILES: CC1=C(C(=CC=C1)O)C(=O)O
+
+A. It has a role as an antibacterial drug
+B. It derives from a salicylic acid
+C. Outside of the human body, it can be found in herbs and spices
+D. A quinolizidine alkaloid isolated from several FABACEAE including LUPINUS; SPARTIUM; and CYTISUS
+
+【68】
+PubChem ID: 189151
+
+SMILES: CN1C2=CC3=CC=CC=C3C4=C2C(=CC(=C4OC)OC)C(=O)C1=O
+
+A. it appears as a clear colorless liquid with an ammonia-like odor
+B. Outside of the human body, it can be found in herbs and spices
+C. It derives from a glycine
+D. Exposure of the container to prolonged heat or fire may cause it to rupture violently and rocket
+
+【69】
+PubChem ID: 6471
+
+SMILES: CCC(=O)OC1(CCN(CC1C)C)C2=CC=CC=C2
+
+A. It derives from a formic acid
+B. It has a role as a human metabolite and an Escherichia coli metabolite
+C. it is a DEA Schedule II controlled substance
+D. Outside of the human body, it can be found in onion-family vegetables
+
+【70】
+PubChem ID: 442358
+
+SMILES: CC1=C(C=CC2=C1O[C@@H](CC2)C3=CC(=C(C=C3)OC)O)O
+
+A. Irritates skin and eyes
+B. It derives from an all-trans-retinoic acid
+C. it has been found in human hepatic tissue, liver and kidney tissues, and has also been detected in multiple biofluids, such as urine and blood
+D. It derives from a hydride of a (2S)-flavan
+
+【71】
+PubChem ID: 133577
+
+SMILES: CCNCC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O
+
+A. it has been found in human liver and kidney tissues, and has also been detected in multiple biofluids, such as urine and blood
+B. It derives from a hydride of a beta-carotene
+C. Toxic by inhalation and skin absorption
+D. It has a role as a metabolite, an Escherichia coli metabolite and a mouse metabolite
+
+【72】
+PubChem ID: 449356
+
+SMILES: C1=CC(=CC=C1[C@H]2[C@@H]([C@@H]([C@H](N2)CO)O)O)N
+
+A. Practically insoluble in water
+B. Outside of the human body, it can be found in pulses
+C. Compared to the second and first generation cephalosporins, ceftriaxone is more active against gram-negative bacteria and less active against gram-positive bacteria
+D. It derives from an aniline
+
+【73】
+PubChem ID: 124322
+
+SMILES: C1=CN2C(=O)C3=C(NC2=N1)N=CN3
+
+A. It derives from a guanine
+B. It has a role as an antimalarial
+C. It has a role as a metabolite and a HIV-1 integrase inhibitor
+D. it also causes a decrease in the formation of thromboxane A2 synthesis, by thromboxane synthase, thereby inhibiting platelet aggregation
+
+【74】
+PubChem ID: 139072
+
+SMILES: C1=C(C2=NON=C2C(=C1)[N+](=O)[O-])NCCCCCC(=O)O
+
+A. Insoluble in water and denser than water
+B. it exists as a solid, soluble (in water), and a moderately acidic compound (based on its pKa)
+C. It has a role as a fluorochrome
+D. Slightly less dense than water
+
+【75】
+PubChem ID: 10922465
+
+SMILES: C[C@@H]1CC[C@H]([C@@H]2[C@H]1CCC(=C2)C)C(=C)C(=O)O
+
+A. exists as a solid and is considered to be practically insoluble (in water) and relatively neutral
+B. It has a role as a metabolite
+C. It derives from an octadecanoic acid
+D. It has a role as a fluorochrome and a histological dye
+
+【76】
+PubChem ID: 135567477
+
+SMILES: CCCCCCCCCCCCCCCCCCCCCCCCCC(=O)N[C@@H](CO[C@@H]1[C@@H]([C@H]([C@H]([C@H](O1)CO)OCC2=CC(=C(C=C2)Cl)Cl)O)O)[C@@H]([C@@H](CCCCCCCCCCCCCC)O)O
+
+A. One of a series of an extensive set of 4\
+B. It is toxic by inhalation, skin absorption, and/or ingestion
+C. Primary hazard is blast of an instantaneous explosion, not flying projectiles or fragments
+D. belongs to the class of organic compounds known as branched alkanes
+
+【77】
+PubChem ID: 526487
+
+SMILES: CC(C)(CCOC=O)S
+
+A. This agent may also induce oxidative damage in fungal cells and has been reported to stimulate host immune cells
+B. Insoluble in water and less dense than water
+C. This makes it a potential biomarker for the consumption of this food product
+D. Major microspecies at pH 7
+
+【78】
+PubChem ID: 24781
+
+SMILES: CC1=CC(=O)NO1
+
+A. It has a role as a bacterial metabolite
+B. It has a role as a nonionic surfactant
+C. It has a role as an antifungal agrochemical
+D. It has a role as a diuretic and an antihypertensive agent
+
+【79】
+PubChem ID: 240452
+
+SMILES: COC1=C(C=CC(=C1)CCCCC(=O)O)O
+
+A. It has a role as a marine xenobiotic metabolite and a drug metabolite
+B. it is considered to be a practically insoluble (in water) and relatively neutral molecule
+C. The sapogenin moiety backbone is usually based on the oleanane, ursane, taraxastane, bauerane, lanostane, lupeol, lupane, dammarane, cycloartane, friedelane, hopane, 9b, 19-cyclo-lanostane, cycloartane, or cycloartanol skeleton
+D. These are diacylglycerols containing a glycerol acylated at positions 1 and 3
+
+【80】
+PubChem ID: 5288798
+
+SMILES: C[C@@](CCO)(CC(=O)[O-])O
+
+A. It has a role as a human metabolite and a Saccharomyces cerevisiae metabolite
+B. These are organic compounds containing a carbonyl group substituted with a benzyloxyl group
+C. Hence floats on water
+D. It derives from a hydride of a lanostane
+
+【81】
+PubChem ID: 61845
+
+SMILES: CC(CC=O)SC
+
+A. it appears as colorless crystals
+B. It can cause illness by inhalation, skin absorption and/or ingestion
+C. It has a role as an Aspergillus metabolite
+D. Within the cell, it is primarily located in the cytoplasm
+
+【82】
+PubChem ID: 42890
+
+SMILES: C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=CC=CC=C5C4=O)O)(C(=O)C)O)N)O
+
+A. It derives from a hydride of a tetracene
+B. It has a role as a herbicide
+C. It has a role as a chelator
+D. This binding process inhibits peptidyl transferase activity and interferes with translocation of amino acids during translation and assembly of proteins
+
+【83】
+PubChem ID: 488
+
+SMILES: C(CC(=O)NC(CSC=O)C(=O)NCC(=O)O)C(C(=O)O)N
+
+A. Because its half-life is longer than somatostatin, lanreotide can be used clinically to treat neuroendocrine tumors that secrete excessive amounts of growth hormone (acromegaly) or other active hormones or neuropeptides
+B. It produces a neuromuscular block leading to flaccid muscle paralysis in susceptible worms, which are then dislodged from the gut and expelled in feces
+C. These are organic compounds containing a sequence of between three and ten alpha-amino acids joined by peptide bonds
+D. It derives from a butan-1-ol
+
+【84】
+PubChem ID: 92784
+
+SMILES: CC(C)C12CCC(=O)C1C2
+
+A. It derives from a hydride of a (2S)-flavan
+B. It has a role as a Mycoplasma genitalium metabolite
+C. Ketones that have one or more alpha-hydrogen atoms undergo keto-enol tautomerization, the tautomer being an enol
+D. it is a synthetic glucocorticoid with anti-inflammatory and immunomodulating properties
+
+【85】
+PubChem ID: 66461
+
+SMILES: CCCCC(CN1C=NC=N1)(C2=C(C=C(C=C2)Cl)Cl)O
+
+A. It derives from an icosanoic acid
+B. It has a role as an anti-inflammatory drug and an antipruritic drug
+C. It is a pentacyclic triterpenoid and a hydroxy monocarboxylic acid
+D. It has a role as a chelator
+
+【86】
+PubChem ID: 64645
+
+SMILES: C[NH+]1CCC2=CC(=C3C=C2[C@@H]1CC4=CC=C(C=C4)OC5=C6[C@@H](CC7=CC(=C(C=C7)O)O3)[N+](CCC6=CC(=C5O)OC)(C)C)OC.[Cl-].[Cl-]
+
+A. May float or sink in water
+B. It is corrosive to metals and tissue
+C. This will eventually lead to bacterial cell death
+D. This may lead to skeletal muscle relaxation and paralysis
+
+【87】
+PubChem ID: 31101
+
+SMILES: CC(C)C[C@H]1C(=O)N2CCC[C@H]2[C@]3(N1C(=O)[C@](O3)(C(C)C)NC(=O)[C@H]4CN([C@@H]5CC6=C(NC7=CC=CC(=C67)C5=C4)Br)C)O
+
+A. It has a role as a plant metabolite and a volatile oil component
+B. It derives from a hydride of an ergotaman
+C. It has a role as a H1-receptor antagonist and an anti-allergic agent
+D. it has been primarily detected in urine
+
+【88】
+PubChem ID: 161899
+
+SMILES: CN1CCC2=CC3=C(C4=C2C1=CC5=CC=CC=C54)OCO3
+
+A. It has a role as a human metabolite, a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite and a mouse metabolite
+B. Sinks and mixes with water
+C. it exists as a solid and is considered to be practically insoluble (in water) and relatively neutral
+D. This substance is a known human carcinogen and is associated with an increased risk of developing lung cancer and cancer of the sinonasal cavity
+
+【89】
+PubChem ID: 32176
+
+SMILES: COC1=CC2=C(C=C1)C=C(C=C2)CC(=O)O
+
+A. It derives from a hydride of an estrane
+B. It has a role as an EC 1
+C. It has a role as a herbicide, a xenobiotic and an environmental contaminant
+D. It derives from a (2S)-flavanone
+
+【90】
+PubChem ID: 15589
+
+SMILES: CC[Si](CC)(Cl)Cl
+
+A. It has a role as a serotonergic antagonist
+B. Corrosive to metals and tissue
+C. These are carboxylic acid derivatives in which the carbon atom from the carbonyl group is attached to an alkyl or an aryl moiety through an oxygen atom (forming an ester group)
+D. It is corrosive to aluminum
+
+【91】
+PubChem ID: 5237
+
+SMILES: C(C(=O)O)F
+
+A. it is soluble (in water) and a moderately basic compound (based on its pKa)
+B. It derives from a L-dopa
+C. It has a role as an EC 4
+D. These are prenol lipids containing a lactone ring
+
+【92】
+PubChem ID: 3083879
+
+SMILES: C1=CC=C(C(=C1)O)OS(=O)(=O)O
+
+A. It derives from a sulfanilamide
+B. It has a role as a xenobiotic
+C. it belongs to the class of organic compounds known as sesquiterpenoids
+D. It derives from a pimelic acid
+
+【93】
+PubChem ID: 54892
+
+SMILES: CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N2CC3=CC=CC=C3C[C@H]2C(=O)O
+
+A. It derives from a rac-lactic acid
+B. It has a role as an EC 3
+C. it is a colorless crystalline solid
+D. It produces a neuromuscular block leading to flaccid muscle paralysis in susceptible worms, which are then dislodged from the gut and expelled in feces
+
+【94】
+PubChem ID: 2328
+
+SMILES: CC(C)N1C(=O)C2=CC=CC=C2NS1(=O)=O
+
+A. These are organosulfur compounds containing a thioether group that is substituted by an aryl group
+B. It has a role as a nutraceutical
+C. it belongs to the class of organic compounds known as menthane monoterpenoids
+D. It has a role as an environmental contaminant, a xenobiotic and a herbicide
+
+【95】
+PubChem ID: 189087
+
+SMILES: CC(=O)NCCCCCN
+
+A. It has a role as a local anaesthetic
+B. Tyrosine and derivatives are compounds containing tyrosine or a derivative thereof resulting from reaction of tyrosine at the amino group or the carboxy group, or from the replacement of any hydrogen of glycine by a heteroatom
+C. It derives from a glycine
+D. It has a role as a human metabolite
+
+【96】
+PubChem ID: 545611
+
+SMILES: CCC(C)CCC(C)CC(C)C(C)C
+
+A. It derives from a barbituric acid
+B. It derives from an all-trans-retinoic acid
+C. Aqueous solution is neutral or alkaline to litmus, but not alkaline to phenolphthalein
+D. It derives from a hydride of a decane
+
+【97】
+PubChem ID: 11671
+
+SMILES: CC(C)(C(=O)O)O
+
+A. Outside of the human body, it can be found in root vegetables
+B. These are diacylglycerols containing a glycerol acylated at positions 1 and 3
+C. Subsequently, the fatty acid portion of polymyxin B dissolves in the hydrophobic region of the bacterial cell membrane
+D. It has a role as a human xenobiotic metabolite
+
+【98】
+PubChem ID: 12283
+
+SMILES: CC1=CC(=O)NC(=O)N1
+
+A. These are naphthalene derivatives carrying one or more hydroxyl (-OH) groups at any ring position
+B. It has a role as a radioactive imaging agent
+C. It has a role as an epitope
+D. It has a role as a metabolite
+
+【99】
+PubChem ID: 124080907
+
+SMILES: CC(C)[N+]1([C@@H]2CC[C@H]1CC(C2)OC(=O)[C@@H](CO)C3=CC=CC=C3)C.[Br-]
+
+A. The primary hazard is the threat to the environment
+B. it is slightly soluble (in water) and a very strong basic compound (based on its pKa)
+C. These are neuraminic acids carrying an N-acyl substituent
+D. Inhibition of the vagal tone leads to dilation of the large central airways resulting in bronchodilation
+
+【100】
+PubChem ID: 10188
+
+SMILES: CC1=CC(=O)N(N1C)C2=CC=CC=C2.C(C(Cl)(Cl)Cl)(O)O.C(C(Cl)(Cl)Cl)(O)O
+
+A. It is a quaternary ammonium salt and an organic bromide salt
+B. It derives from a malonic acid
+C. it is a DEA Schedule IV controlled substance
+D. It has a role as a beta-adrenergic agonist and a bronchodilator agent
+
+【101】
+PubChem ID: 135398604
+
+SMILES: C1C(=NC2=C(N1)N=C(NC2=O)N)CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+
+A. The primary hazard is the threat posed to the environment
+B. It derives from a flavone
+C. It is a hydroxyflavan, a proanthocyanidin, a biflavonoid and a polyphenol
+D. It has a role as an Escherichia coli metabolite and a mouse metabolite
+
+【102】
+PubChem ID: 528409
+
+SMILES: CCCC1=NC(=CO1)C
+
+A. it belongs to the class of organic compounds known as 2, 4-disubstituted oxazoles
+B. They have the general structure RC(=O)OR', where R=fatty aliphatic tail or organyl group and R'=methyl group
+C. It derives from a tryptamine
+D. It has a role as a plant metabolite
+
+【103】
+PubChem ID: 159776
+
+SMILES: CC[C@]1(C[C@@H](C2=C(C3=C(C=C2[C@H]1C(=O)OC)C(=O)C4=C(C3=O)C(=CC=C4)O)O)O)O
+
+A. It has a role as an antineoplastic agent
+B. it is a colorless liquid with a pungent odor
+C. it has been found in human hepatic tissue tissue, and has also been primarily detected in urine
+D. It derives from a propan-1-ol
+
+【104】
+PubChem ID: 138016
+
+SMILES: C(CCCO)CCC(=O)O
+
+A. It derives from a heptanoic acid
+B. Combustion produces toxic oxides of nitrogen
+C. it is an odorless white solid
+D. With a lower affinity, this agent also reversibly binds to dopamine D1 and D2 receptors in the mesolimbic and mesocortical areas of the brain leading to decreased psychotic effects, such as hallucinations and delusions
+
+【105】
+PubChem ID: 38386
+
+SMILES: C1=CC(=CC=C1OC2=C(C(=C(C=C2)Br)Br)Br)Br
+
+A. It is not metabolized but excreted in the urine
+B. It has a role as a plant metabolite and an antineoplastic agent
+C. it is considered to be a practically insoluble (in water) and relatively neutral molecule
+D. It derives from a cytosine
+
+【106】
+PubChem ID: 8122
+
+SMILES: CCCCCCCCCCCCCCCCCC(=O)OCC
+
+A. It derives from an alpha-D-glucose
+B. it is a colorless, odorless gas
+C. It derives from a 1,2-phenylenediamine
+D. It has a role as a plant metabolite
+
+【107】
+PubChem ID: 24294
+
+SMILES: Cl[Sb](Cl)(Cl)(Cl)Cl
+
+A. It derives from a flavanone
+B. Corrosive to metals and tissue
+C. Toxic by inhalation and skin absorption
+D. it belongs to the class of organic compounds known as branched alkanes
+
+【108】
+PubChem ID: 9265
+
+SMILES: C1CCCCCC1
+
+A. It has a role as a non-polar solvent
+B. it is reasonably anticipated to be a human carcinogen
+C. Vapors heavier than air
+D. it belongs to the class of organic compounds known as fatty alcohols
+
+【109】
+PubChem ID: 442108
+
+SMILES: CC[C@H]1C[C@H]2C[C@@H]3[C@H]1N(C2)CCC4=C3NC5=C4C=C(C=C5)OC
+
+A. This agent lacks the salt-retaining properties of other related adrenal hormones
+B. These are organic compounds containing two keto groups separated by a single carbon atom
+C. Substances in the DEA Schedule I have no currently accepted medical use in the United States, a lack of accepted safety for use under medical supervision, and a high potential for abuse
+D. As a result, there is an overall reduction in chronic inflammation and autoimmune reactions
+
+【110】
+PubChem ID: 92219
+
+SMILES: C1=CC=C(C=C1)C2C(O2)C(=O)C3=CC=CC=C3
+
+A. They also show profound effects on scalp and body hair in humans
+B. It derives from a (-)-epicatechin
+C. it is considered to be a practically insoluble (in water) and relatively neutral molecule
+D. These are steroids containing a cycloartanol moiety
+
+【111】
+PubChem ID: 448752
+
+SMILES: C1=CC=C(C=C1)CCC[NH3+]
+
+A. Major microspecies at pH 7
+B. This agent differs from other beta-lactam antibiotics because it is resistant to beta-lactamase hydrolysis, and it is usually used to treat infections caused by gram-negative aerobic microorganisms
+C. Vapors heavier than air
+D. It has a role as an antineoplastic agent and a bacterial metabolite
+
+【112】
+PubChem ID: 2624
+
+SMILES: CN1C(=NN=N1)SCC2=C(N3C(C(C3=O)NC(=O)C(=NOC)C4=CSC(=N4)N)SC2)C(=O)O
+
+A. it functions as an antagonist at the dopamine D2 and serotonin 5-HT2A and 5-HT1D receptors, and as an agonist at the 5-HT1A receptor
+B. By preventing crosslinking of peptidoglycan, cell wall integrity is lost and cell wall synthesis is halted
+C. It is a dihydroxyflavone and a monomethoxyflavone
+D. It derives from a salicylic acid
+
+【113】
+PubChem ID: 15559345
+
+SMILES: C[C@H]1CCC[C@@H]2[C@@]1(CC[C@H]3[C@]2(CC[C@@]4([C@@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C)C)C)C)C
+
+A. It derives from a myo-inositol
+B. It is not approved for use within the European Union
+C. It has a role as a metabolite
+D. it is a colorless liquid
+
+【114】
+PubChem ID: 4255608
+
+SMILES: C1=CC=C(C=C1)CC(C(=O)O)NC(=O)CC2=CNC3=CC=CC=C32
+
+A. It has a role as a plant metabolite
+B. It derives from a L-glutamic acid
+C. This is a chemical weapon related to sulfur mustard (mustard gas) and is expected to react in a similar fashion
+D. It derives from a gallic acid
+
+【115】
+PubChem ID: 329252
+
+SMILES: CC12CC(OC(=O)C1CC3C4C2CC(CC4C(=O)O3)O)C5=COC=C5
+
+A. It has a role as a muscarinic antagonist and an antispasmodic drug
+B. It is a member of xanthones and a polyphenol
+C. These are phenylpropanoids containing the 2-phenylbenzofuran moiety
+D. it exists as a solid and is considered to be practically insoluble (in water) and relatively neutral
+
+【116】
+PubChem ID: 15030923
+
+SMILES: C1=CC=C2C(=C1)C=C(N2)/C=C/C(=O)O
+
+A. Vapors are heavier than air
+B. It has a role as an antioxidant and a plant metabolite
+C. It derives from an estrone
+D. It derives from an acrylic acid
+
+【117】
+PubChem ID: 64113
+
+SMILES: CC1=CC=CC=C1N2C(=NC3=CC=CC=C3C2=O)C.CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2.Cl
+
+A. It has a role as a muscle relaxant
+B. These are aliphatic alcohols consisting of a chain of a least six carbon atoms
+C. Substances in the DEA Schedule I have no currently accepted medical use in the United States, a lack of accepted safety for use under medical supervision, and a high potential for abuse
+D. They also show profound effects on scalp and body hair in humans
+
+【118】
+PubChem ID: 171386
+
+SMILES: C(CS(=O)C[C@@H](C(=O)O)N)[C@@H](C(=O)O)N
+
+A. It is a member of xanthones and a polyphenol
+B. It has a role as an antifungal agent
+C. This results in the weakening of the bacterial cell wall and causes cell lysis
+D. These are alpha amino acids which have the L-configuration of the alpha-carbon atom
+
+【119】
+PubChem ID: 73772
+
+SMILES: CCCCC(=O)OC1CCCCC1
+
+A. It has a role as a H1-receptor antagonist and an anti-allergic agent
+B. These are carboxylic ester derivatives of a fatty acid
+C. It has a role as an allergen
+D. It has a role as an EC 3
+
+【120】
+PubChem ID: 11747
+
+SMILES: CCC(=O)C(=O)C
+
+A. Since it is a liquid it can easily penetrate the soil and contaminate groundwater and nearby streams
+B. It has a role as a flavouring agent
+C. It derives from an estrone
+D. Vapors are heavier than air
+
+【121】
+PubChem ID: 7582
+
+SMILES: C1CCC(CC1)NC2CCCCC2
+
+A. May be toxic by ingestion
+B. Indoles are compounds containing an indole moiety, which consists of pyrrole ring fused to benzene to form 2, 3-benzopyrrole
+C. In addition, this agent decreases glutamate (Glu) responses
+D. it exists as a solid, slightly soluble (in water), and an extremely weak basic (essentially neutral) compound (based on its pKa)
+
+【122】
+PubChem ID: 205601
+
+SMILES: CCCC(C(=O)C1=CC=C(C=C1)C)NCC
+
+A. Substances in the DEA Schedule I have no currently accepted medical use in the United States, a lack of accepted safety for use under medical supervision, and a high potential for abuse
+B. it is the D-enantiomer of it
+C. It derives from a valeric acid
+D. Thus, it is considered to be a flavonoid lipid molecule
+
+【123】
+PubChem ID: 23422
+
+SMILES: CN1CCC2=CC(=C3C=C2[C@@H]1CC4=CC=C(C=C4)OC5=C6[C@@H](CC7=CC(=C(C=C7)O)O3)[N+](CCC6=CC(=C5O)OC)(C)C)OC.O.O.O.O.O.Cl.[Cl-]
+
+A. It derives from a maleic acid
+B. This may lead to skeletal muscle relaxation and paralysis
+C. It is a 1,4-benzodiazepinone and an organochlorine compound
+D. This agent also produces toxic free-radical intermediates and interacts with cell membrane lipids causing lipid peroxidation
+
+【124】
+PubChem ID: 22806751
+
+SMILES: C[C@H]1[C@H]([C@H]([C@@H]([C@@H](O1)O[C@@H]2[C@H](OC([C@@H]([C@H]2O[C@H]3[C@@H]([C@H]([C@H]([C@H](O3)CO)O)O)O)NC(=O)C)O)CO)O)O)O
+
+A. About the same density as water
+B. It has a role as an epitope and an antigen
+C. It has a role as a Saccharomyces cerevisiae metabolite and an Escherichia coli metabolite
+D. It has a role as a bone density conservation agent
+
+【125】
+PubChem ID: 25611
+
+SMILES: CCCCC(=O)C(C)C
+
+A. It has been isolated from the roots of Rubia yunnanensis
+B. These are organic compounds in which a carbonyl group is bonded to two carbon atoms R2C=O (neither R may be a hydrogen atom)
+C. It has a role as a metabolite and a mouse metabolite
+D. Outside of the human body, it can be found in herbs and spices and tea
+
+【126】
+PubChem ID: 336
+
+SMILES: C(C(=O)O)(NC(=O)N)O
+
+A. It has a role as a Saccharomyces cerevisiae metabolite
+B. hamdenensis with potential antibacterial activity
+C. It has a role as a herbicide, a xenobiotic and an environmental contaminant
+D. This agent also inhibits the drug efflux pump P-glycoprotein which is overexpressed in some multi-drug resistant tumors and may improve the efficacy of some antineoplastic agents
+
+【127】
+PubChem ID: 28469
+
+SMILES: CCCCCCCCCC(C)CC
+
+A. The introduction of one or more hydroxyl groups to a phenyl ring lead to stilbenoids
+B. It has a role as a buffer
+C. It has a role as a hapten and an allergen
+D. belongs to the class of organic compounds known as branched alkanes
+
+【128】
+PubChem ID: 11039
+
+SMILES: CC(C)C(=O)OC
+
+A. Irritates skin and eyes
+B. It has a role as a metabolite
+C. It derives from a hydride of an oleanane
+D. it exists as a solid and is considered to be practically insoluble (in water) and relatively neutral
+
+【129】
+PubChem ID: 8264
+
+SMILES: CN(C)P(=O)(N(C)C)F
+
+A. These are amino acids in which the amino group is attached to the carbon atom immediately adjacent to the carboxylate group (alpha carbon), or a derivative thereof
+B. Not registered as a pesticide in the U
+C. it appears as a colorless odorless gas
+D. It is a dihydroxyflavone and a monomethoxyflavone
+
+【130】
+PubChem ID: 161816
+
+SMILES: CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@@H](C=C4[C@@]3(CC[C@@H](C4)O)C)O)C)C(C)C
+
+A. It derives from a palmitoleic acid
+B. It has a role as an environmental contaminant, a xenobiotic, a herbicide and an agrochemical
+C. Moderately toxic by ingestion
+D. It derives from a hydride of a stigmastane
+
+【131】
+PubChem ID: 519642
+
+SMILES: C=CC1=CC=CS1
+
+A. It derives from a glycine
+B. Within the cell, it is primarily located in the cytoplasm
+C. The sapogenin moiety backbone is usually based on the oleanane, ursane, taraxastane, bauerane, lanostane, lupeol, lupane, dammarane, cycloartane, friedelane, hopane, 9b, 19-cyclo-lanostane, cycloartane, or cycloartanol skeleton
+D. it has been detected in multiple biofluids, such as feces and saliva
+
+【132】
+PubChem ID: 122162
+
+SMILES: CC(=O)NCCC1=C(NC2=CC=CC=C21)CC3=CC=CC=C3
+
+A. It has a role as a muscle relaxant
+B. It derives from a tryptamine
+C. It derives from a pyruvate
+D. It has a role as an antihypertensive agent
+
+【133】
+PubChem ID: 4736
+
+SMILES: CC1C2CC3=C(C1(CCN2CC=C(C)C)C)C=C(C=C3)O
+
+A. These are terpenoids with a structure based on the eudesmanolide (a 3, 5a, 9-trimethyl-naphtho[1, 2-b]furan-2-one derivative) or secoeudesmanolide (a 3, 6-dimethyl-5-(pentan-2-yl)-1-benzofuran-2-one derivative) skeleton
+B. It has a role as a fundamental metabolite and a cofactor
+C. it is a DEA Schedule IV controlled substance
+D. It is a branched-chain saturated fatty acid, a long-chain fatty acid and a methyl-branched fatty acid
+
+【134】
+PubChem ID: 136417
+
+SMILES: COC1=C(C=C(C=C1)C2=C(C(=O)C3=C(C(=C(C(=C3O2)OC)OC)OC)O)OC)OC
+
+A. Thus, is considered to be a flavonoid lipid molecule
+B. These are organic compounds containing thiolane, a five-member saturated ring containing four carbon atoms and a sulfur atom
+C. It is insoluble in water
+D. it is a DEA Schedule II controlled substance
+
+【135】
+PubChem ID: 9272
+
+SMILES: CCOP(=S)(OCC)OC1=NC=CN=C1
+
+A. it is soluble (in water) and a weakly acidic compound (based on its pKa)
+B. Not registered as a pesticide in the U
+C. It derives from a hydride of a morphinan
+D. it belongs to the class of organic compounds known as phenylpropanoic acids
+
+【136】
+PubChem ID: 49
+
+SMILES: CC(C)C(=O)C(=O)O
+
+A. Substances in the DEA Schedule IV have a low potential for abuse relative to substances in Schedule III
+B. it is an orally active inhibitor of coagulation factor Xa (activated factor X) with anticoagulant activity
+C. It has a role as a human metabolite and a Saccharomyces cerevisiae metabolite
+D. This substance is used only for research purposes
+
+【137】
+PubChem ID: 169019
+
+SMILES: C([C@H]([C@@H](CO)O)O)O
+
+A. It has a role as a human metabolite
+B. It derives from a hydride of a stigmastane
+C. It derives from a pentan-1-ol
+D. It has a role as a mouse metabolite and a human metabolite
+
+【138】
+PubChem ID: 5311447
+
+SMILES: CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N2CC3(C[C@H]2C(=O)O)SCCS3
+
+A. It has a role as a metabolite and an anti-inflammatory agent
+B. These are alpha amino acids which have the L-configuration of the alpha-carbon atom
+C. This will eventually lead to bacterial cell death
+D. This prevents the potent vasoconstrictive actions of angiotensin II and results in vasodilation
+
+【139】
+PubChem ID: 161466
+
+SMILES: C[C@H]([C@@H](C(=O)O)NC(=O)NC1=C2C(=NC=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)O
+
+A. Compared to the second and first generation cephalosporins, ceftriaxone is more active against gram-negative bacteria and less active against gram-positive bacteria
+B. It derives from a propan-1-ol
+C. Thus, it is considered to be a fatty alcohol lipid molecule
+D. It derives from an adenosine
+
+【140】
+PubChem ID: 82146
+
+SMILES: CC1=CC2=C(C=C1C(=C)C3=CC=C(C=C3)C(=O)O)C(CCC2(C)C)(C)C
+
+A. It derives from a maleic acid
+B. It has a role as a plant metabolite
+C. These are organic compounds containing a sequence of between three and ten alpha-amino acids joined by peptide bonds
+D. It has a role as an antineoplastic agent
+
+【141】
+PubChem ID: 439368
+
+SMILES: CC1(COC(=O)[C@@H]1O)C
+
+A. It has a role as a plant metabolite and an antineoplastic agent
+B. It derives from an all-trans-retinoic acid
+C. It has a role as an anti-inflammatory agent and a plant metabolite
+D. It has a role as a Saccharomyces cerevisiae metabolite
+
+【142】
+PubChem ID: 5371560
+
+SMILES: C/C(=C\C(=O)N(C)C)/OP(=O)(OC)OC
+
+A. Irritates skin and eyes
+B. It has a role as a muscarinic antagonist and an antispasmodic drug
+C. It has a role as a Penicillium metabolite
+D. It has a role as an EC 3
+
+【143】
+PubChem ID: 326
+
+SMILES: CC(C)C1=CC=C(C=C1)C=O
+
+A. They have the general structure RC(=O)OR', where R=fatty aliphatic tail or organyl group and R'=methyl group
+B. It derives from a hydride of a cumene
+C. It has a role as a protic solvent
+D. It has a role as a drug metabolite
+
+【144】
+PubChem ID: 12433
+
+SMILES: C(C(=O)O)(Br)Br
+
+A. It derives from a hydride of a decane
+B. It derives from an acetic acid
+C. It derives from a hydride of an estrane
+D. it competes with PABA for the bacterial enzyme dihydropteroate synthase, thereby preventing the incorporation of PABA into dihydrofolic acid, the immediate precursor of folic acid
+
+【145】
+PubChem ID: 12656
+
+SMILES: CN(C)CCC1=CN=CN1
+
+A. It is a dihydroxyflavone and a monomethoxyflavone
+B. These are alkylamines in which the alkyl group is substituted at one carbon atom by an aromatic hydrocarbyl group
+C. These are terpenes with three consecutive isoprene units
+D. it is soluble (in water) and a very weakly acidic compound (based on its pKa)
+
+【146】
+PubChem ID: 160614
+
+SMILES: C1CCN2C[C@@H]3C[C@H]([C@@H]2C1)CN4C3=CCCC4
+
+A. These are steroids with a structure based on a hydroxylated prostane moiety
+B. These are tannins with a structure characterized by either of the following models
+C. These are organic compounds containing the isothiocyanate group, an isocyanate analogue with the general formula RN=C=S
+D. It has a role as a human xenobiotic metabolite
+
+【147】
+PubChem ID: 61835
+
+SMILES: CCCCCCC1CCCCC(=O)O1
+
+A. It derives from a maleic acid
+B. it is considered to be a practically insoluble (in water) and relatively neutral molecule
+C. It is toxic by inhalation, skin absorption, and/or ingestion
+D. Indoles are compounds containing an indole moiety, which consists of pyrrole ring fused to benzene to form 2, 3-benzopyrrole
+
+【148】
+PubChem ID: 1198
+
+SMILES: C(C(C(C(=O)O)O)C(=O)O)C(=O)O
+
+A. This results in the weakening of the bacterial cell wall and causes cell lysis
+B. It is slightly soluble in water
+C. This is a chemical weapon related to sulfur mustard (mustard gas) and is expected to react in a similar fashion
+D. It has a role as a fundamental metabolite
+
+【149】
+PubChem ID: 126843508
+
+SMILES: C1CC(=O)C(C1CC(=O)[O-])C/C=C\CCOS(=O)(=O)[O-]
+
+A. Major species at pH 7
+B. It derives from a gamma-aminobutyric acid
+C. It has a role as a plant metabolite and an EC 3
+D. In addition, this agent has exhibited inhibition of collagenase activity
+
+【150】
+PubChem ID: 9852086
+
+SMILES: CC(=CCC[C@@](C)([C@H]1CC[C@@]2([C@@H]1[C@@H](C[C@H]3[C@]2(CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)O)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)C
+
+A. These are aldehydes with the general formula HC(H)(R)C(=O)H, where R is an organyl group
+B. These are monoterpenoids containing 1 ring in the isoprene chain
+C. It derives from a hydride of a dammarane
+D. It has a role as a radioopaque medium
+
+【151】
+PubChem ID: 525788
+
+SMILES: CCCCCC1=NC(=C(O1)CC)C
+
+A. It has a role as a cofactor
+B. It has a role as a buffer
+C. it is considered to be a practically insoluble (in water) and relatively neutral molecule
+D. it belongs to the class of organic compounds known as 2, 4-disubstituted thiazoles
+
+【152】
+PubChem ID: 3038497
+
+SMILES: CC(C)C1=C(C(=CC=C1)C(C)C)OCOP(=O)([O-])[O-].[Na+].[Na+]
+
+A. it may be bacteriostatic or bactericidal in action, depending on the concentration of the drug at the site of infection and the susceptibility of the organism involved
+B. These are organic compounds containing a 3-oxo acylated coenzyme A derivative
+C. it is a DEA Schedule IV controlled substance
+D. It derives from a phosphonic acid
+
+【153】
+PubChem ID: 5282189
+
+SMILES: C[C@@H]1C/C=C/C=C/[C@@H]([C@@H](C[C@@H]([C@@H]([C@H]([C@@H](CC(=O)O1)O)OC)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)C)O[C@H]3C[C@@]([C@H]([C@@H](O3)C)O)(C)O)N(C)C)O)CC=O)C)O
+
+A. These are an aldehyde with a chain length containing between 6 and 12 carbon atoms
+B. It has a role as an animal metabolite
+C. It has a role as a bacterial metabolite
+D. It has a role as an antibacterial agent
+
+【154】
+PubChem ID: 9832481
+
+SMILES: C1=CC(=C(C=C1C(=O)O)C(=O)O)C2=C3C=CC(=N)C(=C3OC4=C2C=CC(=C4S(=O)(=O)O)N)S(=O)(=O)O
+
+A. These are ester derivatives of a fatty alcohol
+B. It has a role as a fluorochrome
+C. It has a role as an alkylating agent and an antineoplastic agent
+D. it appears as a colorless liquid
+
+【155】
+PubChem ID: 34167
+
+SMILES: CCOC(=O)C1=CCCN(C1)C
+
+A. It has a role as a drug metabolite and an allergen
+B. it is soluble (in water) and a very strong basic compound (based on its pKa)
+C. Furthermore, its inhibitory action on smooth muscle prevents bladder contraction and decreases gastrointestinal motility
+D. It derives from a phenylacetic acid
+
+【156】
+PubChem ID: 644013
+
+SMILES: CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OP(=O)(C3=CC=CC=C3)O)C(=O)OC
+
+A. Used to make perfumes
+B. It has a role as an epitope
+C. This agent lacks the salt-retaining properties of other related adrenal hormones
+D. it appears as a clear colorless liquid with a pungent odor
+
+【157】
+PubChem ID: 120608
+
+SMILES: C[C@H]1[C@@H](OCCN1C)C2=CC=CC=C2.[C@@H]([C@H](C(=O)O)O)(C(=O)O)O
+
+A. It has a role as an EC 4
+B. It derives from a trans-chalcone
+C. Substances in the DEA Schedule III have a potential for abuse less than substances in Schedules I or II and abuse may lead to moderate or low physical dependence or high psychological dependence
+D. Within the cell, is primarily located in the membrane (predicted from logP) and cytoplasm
+
+【158】
+PubChem ID: 160460
+
+SMILES: CC1(C(=O)NC(=O)N(C1=O)C)C2=CC(CCC2)O
+
+A. It derives from an acetic acid
+B. These are a form of normal chalcones that are structurally distinguished by the lack of oxygen functionalities at the C2'- and C6'-positions
+C. This agent appears to specifically and reversibly inhibit immunocompetent lymphocytes in the G0-or G1-phase of the cell cycle
+D. it is slightly soluble (in water) and a very weakly acidic compound (based on its pKa)
+
+【159】
+PubChem ID: 11847
+
+SMILES: C1=CC(=C(C(=C1)Br)O)Br
+
+A. It derives from a maleic acid
+B. It has a role as a marine metabolite
+C. it binds to penicillin-binding proteins (PBPs), transpeptidases that are responsible for crosslinking of peptidoglycan
+D. It derives from a hydride of a 1H-pyrazole
+
+【160】
+PubChem ID: 440770
+
+SMILES: C(CC(C(=O)O)N)C#N
+
+A. These are organic aromatic compounds containing a monocyclic benzene moiety carrying exactly two methoxy groups
+B. It derives from a butyric acid
+C. It is a 1,4-benzodiazepinone and an organochlorine compound
+D. An agent derived from licorice root
+
+【161】
+PubChem ID: 151282
+
+SMILES: CSCC[C@@H](C(=O)O)NC(=O)CN
+
+A. It has a role as a metabolite
+B. It has a role as a pyrethroid ester insecticide
+C. These are aromatic compounds containing an ether group substituted with a benzene ring
+D. It has a role as a chelator
+
+【162】
+PubChem ID: 6731
+
+SMILES: C1=CC=C2C(=C1)C=CC(=N2)C3C(=O)C4=CC=CC=C4C3=O
+
+A. It derives from a benzoic acid
+B. These are aromatic compounds containing a ketone substituted by one alkyl group, and a phenyl group
+C. It has a role as a dye
+D. It derives from a hydride of a tetracene
+
+【163】
+PubChem ID: 300
+
+SMILES: C(C(=O)O)Cl
+
+A. It derives from a formic acid
+B. It derives from a hydride of a beta-carotene
+C. It derives from a butyric acid
+D. It is corrosive to metals and tissue
+
+【164】
+PubChem ID: 151023
+
+SMILES: CC(C)C[C@@H](C(=O)O)NC(=O)CC[C@@H](C(=O)O)N
+
+A. These are organic compounds containing an isoquinoline to which a benzyl group is attached
+B. It derives from a hydride of an ergotaman
+C. It has a role as a human metabolite
+D. Possible bluish color depending on copper content
+
+【165】
+PubChem ID: 182886
+
+SMILES: C1=CC=C(C(=C1)O)OC2=CC=CC(=C2O)O
+
+A. It has a role as a xenobiotic metabolite
+B. Outside of the human body, it can be found in fats and oils
+C. Stable in the presence of a variety of beta-lactamases, this agent is more active against gram-negative bacteria and less active against gram-positive bacteria compared to second-generation cephalosporins
+D. It has a role as a mouse metabolite
+
+【166】
+PubChem ID: 525782
+
+SMILES: CCCCCCC1=NC(=C(O1)CC)C
+
+A. it is a DEA Schedule I controlled substance
+B. it belongs to the class of organic compounds known as 2, 4, 5-trisubstituted oxazoles
+C. If the polymerization takes place inside a container, the container may rupture violently
+D. These are aromatic compounds containing a ketone substituted by one alkyl group, and a phenyl group
+
+【167】
+PubChem ID: 7268
+
+SMILES: CCOC(=O)C(=O)OCC
+
+A. It derives from a gallic acid
+B. It has a role as an anti-inflammatory drug and an antipruritic drug
+C. it appears as a colorless liquid
+D. Insoluble in water and less dense than water
+
+【168】
+PubChem ID: 439268
+
+SMILES: C1[C@H]([C@@H]([C@H](OC1O)CO)O)O
+
+A. it exists as a solid, slightly soluble (in water), and a very weakly acidic compound (based on its pKa)
+B. It is produced in the body by metabolism of glyoxylic acid or ascorbic acid
+C. Outside of the human body, it can be found in citrus
+D. It has a role as a metabolite
+
+【169】
+PubChem ID: 39764
+
+SMILES: CC(=O)O[C@H]1C[C@@H]2CC[C@@H]3[C@@H]([C@]2(C[C@@H]1N4CCCCC4)C)CC[C@]5([C@H]3C[C@@H]([C@@H]5OC(=O)C)[N+]6(CCCCC6)C)C.[Br-]
+
+A. It is a quaternary ammonium salt and an organic bromide salt
+B. it is highly corrosive and is a strong oxidizing agent
+C. Primary hazard is to the environment
+D. Substances in the DEA Schedule I have no currently accepted medical use in the United States, a lack of accepted safety for use under medical supervision, and a high potential for abuse
+
+【170】
+PubChem ID: 565965
+
+SMILES: CN1C=NC=C1CC(C(=O)O)N
+
+A. It has a role as a human metabolite
+B. It derives from a tetradecanoic acid
+C. Because its half-life is longer than somatostatin, lanreotide can be used clinically to treat neuroendocrine tumors that secrete excessive amounts of growth hormone (acromegaly) or other active hormones or neuropeptides
+D. This prevents the potent vasoconstrictive actions of angiotensin II, resulting in vasodilation
+
+【171】
+PubChem ID: 168165
+
+SMILES: C1C2C(C3C4C(C5=C(C(=C(C(=C5C(=O)O4)C6=C(C(=C(C(=C6C(=O)O3)C7=C(C(=C(C=C7C(=O)O2)O)O)O)O)O)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8C9=C(C(=C(C=C9C(=O)O1)O)O)O)O)O)O
+
+A. This prevents the breakdown of larger carbohydrates into glucose and decreases the rise in postprandial blood glucose levels
+B. It derives from a beta-D-fructofuranose
+C. Thus, it is considered to be a fatty ester lipid molecule
+D. In model 1, the structure contains galloyl units (in some cases, shikimic acid units) that are linked to diverse polyol carbohydrate-, catechin-, or triterpenoid units
+
+【172】
+PubChem ID: 56928081
+
+SMILES: CCCCCCCCCCCCCCCC(=O)O[C@H](CCCCCCCCCCC)CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@@H]1OP(=O)(O)O)CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)OP(=O)(O)O)OC(=O)C[C@@H](CCCCCCCCCCC)OC(=O)CCCCCCCCCCCCC)NC(=O)C[C@@H](CCCCCCCCCCC)OC(=O)CCCCCCCCCCC)O)OC(=O)C[C@@H](CCCCCCCCCCC)O
+
+A. it is slightly soluble (in water) and an extremely weak acidic (essentially neutral) compound (based on its pKa)
+B. These are organic compounds containing the thiol functional group linked to an alkyl chain
+C. It has a role as an antihypertensive agent
+D. It has a role as a bacterial metabolite
+
+【173】
+PubChem ID: 16046101
+
+SMILES: C1=CC=C(C=C1)[N+]2=C3C=C(C4=C(C3=NC5=CC=CC=C52)C=CC(=C4)S(=O)(=O)[O-])NC6=CC=C(C=C6)S(=O)(=O)[O-].[Na+]
+
+A. Insoluble in water and about the same density as water
+B. A quinolizidine alkaloid isolated from several FABACEAE including LUPINUS; SPARTIUM; and CYTISUS
+C. It has a role as a histological dye
+D. It is the major species at pH 7
+
+【174】
+PubChem ID: 169144
+
+SMILES: CC1=CC2=C(C(=C1C3=C4C(=O)C=CC(=O)C4=C(C=C3C)O)O)C(=O)C(=CC2=O)C5=CC(=O)C6=C(C5=O)C(=C(C(=C6)C)C7=C8C(=O)C=CC(=O)C8=C(C=C7C)O)O
+
+A. Within the cell, it is primarily located in the membrane (predicted from logP)
+B. It is a penicillin and a penicillin allergen
+C. It has a role as a flavouring agent
+D. Centrally active following systemic administration
+
+【175】
+PubChem ID: 110968
+
+SMILES: CCCCC(CC)CS
+
+A. It has a role as a hapten and an allergen
+B. It has a role as a human metabolite and an Escherichia coli metabolite
+C. This prevents bacterial protein synthesis
+D. Within the cell, it is primarily located in the membrane (predicted from logP)
+
+【176】
+PubChem ID: 19881764
+
+SMILES: CC1=C(C(=C(C(=C1C(=O)O)O)C)O)C
+
+A. It has a role as an Aspergillus metabolite
+B. is considered to be a practically insoluble (in water) and relatively neutral molecule
+C. It has also been of interest as an indicator of CYP2D6 genotype
+D. It derives from an adenosine 5'-monophosphate
+
+【177】
+PubChem ID: 123929
+
+SMILES: CC(C)CCCC(C)CCCC(C)CCCC(C)C(=O)O
+
+A. It has a role as a human metabolite
+B. A quinolizidine alkaloid isolated from several FABACEAE including LUPINUS; SPARTIUM; and CYTISUS
+C. The sapogenin moiety backbone is usually based on the oleanane, ursane, taraxastane, bauerane, lanostane, lupeol, lupane, dammarane, cycloartane, friedelane, hopane, 9b, 19-cyclo-lanostane, cycloartane, or cycloartanol skeleton
+D. It derives from a quercetagetin
+
+【178】
+PubChem ID: 100714
+
+SMILES: C(C(=O)O)(C(=O)O)N
+
+A. These are glycosylated derivatives of triterpene sapogenins
+B. Specifically, this antibiotic is lodged between 16S rRNA and S12 protein within the 30S subunit
+C. It derives from a malonic acid
+D. Because its half-life is longer than somatostatin, lanreotide can be used clinically to treat neuroendocrine tumors that secrete excessive amounts of growth hormone (acromegaly) or other active hormones or neuropeptides
+
+【179】
+PubChem ID: 234310
+
+SMILES: CC(C)CC1=NN=C(S1)NS(=O)(=O)C2=CC=C(C=C2)OC
+
+A. It derives from a uracil
+B. Like sulfonylureas, it is able to lower blood glucose levels by increasing the release of insulin from pancreatic beta cells
+C. Vapors heavier than air
+D. It derives from a hydride of a 5beta-cholestane
+
+【180】
+PubChem ID: 15654
+
+SMILES: CC1=C(SC=N1)C=C
+
+A. It is used to make other chemicals
+B. It derives from a benzoic acid
+C. It has a role as a serotonergic antagonist
+D. This makes it a potential biomarker for the consumption of these food products
+
+【181】
+PubChem ID: 8178
+
+SMILES: COCCOCCOCCO
+
+A. Metabolite observed in cancer metabolism
+B. It has a role as an alkylating agent and an antineoplastic agent
+C. It is corrosive to metals and tissue
+D. It derives from a thymine
+
+【182】
+PubChem ID: 47965
+
+SMILES: CC1=C(N2[C@@H]([C@@H](C2=O)NC(=O)[C@@H](C3=CC=C(C=C3)O)N)SC1)C(=O)O
+
+A. it belongs to the class of organic compounds known as 2, 4, 5-trisubstituted oxazoles
+B. Inactivation of PBPs interferes with the cross-linkage of peptidoglycan chains necessary for bacterial cell wall strength and rigidity
+C. This agent also has antagonistic activity against histamine H1 and alpha-1-adrenergic receptors
+D. Toxic by ingestion and inhalation
+
+【183】
+PubChem ID: 107730
+
+SMILES: C1=C(C(=CC(=C1O)O)F)C[C@@H](C(=O)O)N
+
+A. Outside of the human body, it can be found in brassicas
+B. It derives from a L-dopa
+C. Centrally active following systemic administration
+D. These are benzoic acids in which the hydrogen atom at position 4 of the benzene ring is replaced by a methoxy group
+
+【184】
+PubChem ID: 6327
+
+SMILES: CCl
+
+A. Under prolonged exposure to fire or intense heat the containers may rupture violently and rocket
+B. It derives from a glycine
+C. It has a role as an antineoplastic agent and a bacterial metabolite
+D. Outside of the human body, it can be found in brassicas
+
+【185】
+PubChem ID: 978
+
+SMILES: C1=CC(=CC=C1C(=O)O)N
+
+A. it competes with PABA for the bacterial enzyme dihydropteroate synthase, thereby preventing the incorporation of PABA into dihydrofolic acid, the immediate precursor of folic acid
+B. It has a role as an anti-inflammatory drug
+C. It derives from a benzoic acid
+D. It is toxic by inhalation, skin absorption, and/or ingestion
+
+【186】
+PubChem ID: 57501499
+
+SMILES: CCCC(C(=O)C1=CC=CC=C1)NC
+
+A. it is slightly soluble (in water) and an extremely strong acidic compound (based on its pKa)
+B. Thus, is considered to be a fatty ester lipid molecule
+C. It derives from a hexadecanoic acid
+D. it is a DEA Schedule I controlled substance
+
+【187】
+PubChem ID: 54758599
+
+SMILES: CC1=C(N=C(N=C1N)[C@H](CC(=O)N)NC[C@@H](C(=O)N)[NH3+])C(=O)N[C@@H]([C@H](C2=CN=CN2)O[C@H]3[C@H]([C@H]([C@@H]([C@@H](O3)CO)O)O)O[C@@H]4[C@H]([C@H]([C@@H]([C@H](O4)CO)O)OC(=O)N)O)C(=O)N[C@H](C)[C@H]([C@H](C)C(=O)N[C@@H]([C@@H](C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCCC[NH+]=C(N)N)O
+
+A. it is a colorless liquid
+B. it forms complexes with iron that reduce molecular oxygen to superoxide and hydroxyl radicals which cause single- and double-stranded breaks in DNA; these reactive oxygen species also induce lipid peroxidation, carbohydrate oxidation, and alterations in prostaglandin synthesis and degradation
+C. It has a role as a Mycoplasma genitalium metabolite
+D. Outside of the human body, it can be found in tea
+
+【188】
+PubChem ID: 20469
+
+SMILES: C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)Cl)C
+
+A. Contact may cause irritation to skin, eyes, and mucous membranes
+B. These are ester derivatives of furoic acid
+C. it binds to penicillin-binding proteins (PBPs), transpeptidases that are responsible for crosslinking of peptidoglycan
+D. It derives from a prednisolone
+
+【189】
+PubChem ID: 66829
+
+SMILES: C1CN(CCN1)C(=S)S
+
+A. These are diacylglycerols containing a glycerol acylated at positions 1 and 3
+B. it exists as a solid and is considered to be practically insoluble (in water) and relatively neutral
+C. It is a phthalate ester and a diester
+D. This agent is active against Aspergillus and Candida species
+
+【190】
+PubChem ID: 14481
+
+SMILES: COP(=S)(OC)SC(CC(=O)O)C(=O)O
+
+A. it is slightly soluble (in water) and a weakly acidic compound (based on its pKa)
+B. It is an agrochemical used as a herbicide
+C. These are terpenoids with a structure based on the eudesmanolide (a 3, 5a, 9-trimethyl-naphtho[1, 2-b]furan-2-one derivative) or secoeudesmanolide (a 3, 6-dimethyl-5-(pentan-2-yl)-1-benzofuran-2-one derivative) skeleton
+D. It has a role as an antioxidant
+
+【191】
+PubChem ID: 24868263
+
+SMILES: CCCCC[C@@H](/C=C/[C@H]1[C@@H](C[C@H]2[C@@H]1C/C(=C/CCCC(=O)[O-])/O2)O)O
+
+A. It has a role as a human metabolite
+B. It derives from a prednisolone
+C. It derives from an adenosine 5'-monophosphate
+D. It has a role as an environmental contaminant, a xenobiotic and a herbicide
+
+【192】
+PubChem ID: 25487
+
+SMILES: [NH4+].[I-]
+
+A. Sinks and mixes with water
+B. It is a pentacyclic triterpenoid and a hydroxy monocarboxylic acid
+C. It derives from a progesterone
+D. Immediate steps should be taken to limit spread to the environment
+
+【193】
+PubChem ID: 656593
+
+SMILES: CCCCOC1=CC=C(C=C1)C[N+]2([C@@H]3CC[C@H]2CC(C3)OC(=O)[C@H](CO)C4=CC=CC=C4)C
+
+A. This agent also induces apoptosis by binding to and blocking the function of the apoptosis inhibitor protein Bcl-2 (B-cell Leukemia 2)
+B. It has a role as a muscarinic antagonist and an antispasmodic drug
+C. It derives from a hydride of a 1H-pyrazole
+D. It derives from a hydride of a heptane
+
+【194】
+PubChem ID: 24649
+
+SMILES: O=S(=O)(OS(=O)(=O)Cl)Cl
+
+A. These are monoterpenoids containing 1 ring in the isoprene chain
+B. They are known to favor the development of masculine characteristics
+C. Corrosive to metals and tissue
+D. These are organic compounds containing a phenylpropane moiety
+
+【195】
+PubChem ID: 25188
+
+SMILES: C=CC(=O)[O-]
+
+A. It has a role as a non-polar solvent
+B. It has a role as a human metabolite
+C. Centrally active following systemic administration
+D. It has a role as a volatile oil component and a plant metabolite
+
+【196】
+PubChem ID: 101819
+
+SMILES: C[C@]12CC[C@@H](C[C@@H]1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C)O)C)O
+
+A. it appears as colorless crystals
+B. It derives from a hydride of a 5alpha-cholestane
+C. It is a hydroxyflavan, a proanthocyanidin, a biflavonoid and a polyphenol
+D. it is a DEA Schedule III controlled substance
+
+【197】
+PubChem ID: 477436
+
+SMILES: CC1=CC2=C(C=C1)NC3=C2C=C(C(=C3)O)CC=C(C)C
+
+A. It has a role as a detergent
+B. It has a role as a herbicide, a xenobiotic and an environmental contaminant
+C. It has a role as a metabolite and an anti-HIV agent
+D. It has a role as a Saccharomyces cerevisiae metabolite and a mouse metabolite
+
+【198】
+PubChem ID: 92105
+
+SMILES: CN1C=C(N=C1)C[C@@H](C(=O)O)N
+
+A. It has a role as a human xenobiotic metabolite
+B. It has a role as a human metabolite
+C. It derives from a hydride of a 5alpha-androstane
+D. It has a role as a plant metabolite
+
+【199】
+PubChem ID: 9639
+
+SMILES: C(C(C(C(F)(F)F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F
+
+A. It derives from an alpha-D-glucose
+B. Not approved for use within the European Union
+C. It derives from a hydride of a hexane
+D. it is soluble (in water) and a very weakly acidic compound (based on its pKa)
+

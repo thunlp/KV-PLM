@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "calcu_test.py", line 2, in <module>
+    import torch
+  File "/home/zengzheni/miniconda3/envs/daily/lib/python3.6/site-packages/torch/__init__.py", line 197, in <module>
+    from torch._C import *  # noqa: F403
+RuntimeError: KeyboardInterrupt: 

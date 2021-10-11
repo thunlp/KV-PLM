@@ -1,0 +1,120 @@
+It is weakly acidic.
+It is strong acidic.
+It is an organic compound.
+It is a conjugate acid.
+An amino compound.
+It is soluble in water.
+It is insoluble in water.
+It is slightly soluble in water.
+Primarily located in the cytoplasm within the cell.
+Substituted by a hydroxy group.
+Substituted by methyl group.
+It is an organic salt.
+It is a sodium salt.
+It is a phosphate salt.
+It is a sulfate salt.
+It is an ammonium salt.
+It has a role of inhibitor.
+It is primarily located in the membrane.
+It has a role as an antineoplastic agent.
+It has a role as human metabolite.
+It has a role as plant metabolite.
+It has a role as bacterial metabolite.
+It is a growth factor receptor.
+It is a growth factor receptor antagonist.
+It is an ester.
+It is an aromatic compound.
+It is a fatty acid.
+It is a fatty alcohol.
+It contains a ring.
+It is a potential biomarker for the consumption of this food product.
+It is relatively neutral molecule.
+It stimulates protein synthesis.
+It prevents protein synthesis.
+It inhibits DNA replication.
+It inhibits RNA synthesis.
+It is a monocarboxylic acid.
+It is a colorless liquid.
+It is a colorless gas.
+Obtained by the formal condensation of the carboxy group.
+It exists as a solid.
+It is a hydrochloride salt.
+It is a chloride salt.
+It is a chloride compound.
+It has a role as an antibacterial drug.
+It has a role as an anti-inflammatory drug.
+Very toxic by ingestion.
+It has pleasant sweet odor.
+It has unpleasant fishy odor.
+It is odorless liquid.
+It is an antibiotic.
+It is an essential enzyme.
+It is an acetate salt.
+It is a white crystalline solid.
+It is a white powder.
+It is an alcohol.
+Soluble in alcohol and ether.
+It has a role as a protein kinase inhibitor.
+It is an antibacterial agent.
+Contact may irritate skin, eyes or mucous membranes.
+It has a fruity taste.
+It has a bitter taste.
+Detected in urine and blood.
+It increases blood pressure.
+It decreases blood pressure.
+It is a receptor antagonist.
+It is an alkaloid.
+It contains benzene rings.
+It is a benzoic acid.
+It has not been implicated in causing liver injury.
+It has been found in human liver and kidney tissues.
+It is an aromatic ether.
+It is a crown ether.
+It has a role as an antifungal agrochemical.
+It has a role as muscle relaxant.
+It has a role as an environmental contaminant, a xenobiotic, an agrochemical and a herbicide.
+It is a hydroxy steroid.
+It is a dipeptide.
+It is a peptide.
+It contains a ketone.
+It has a role as an Escherichia coli metabolite.
+It contains methoxy groups.
+It is a yellow crystalline.
+It is a yellow powder.
+It is a yellow liquid.
+It is overexpressed in some cancer cells.
+It has a role as anticancer drug.
+It causes smooth muscle contraction.
+It is a DEA Schedule I controlled substance.
+It is a DEA Schedule II controlled substance.
+It is a DEA Schedule III controlled substance.
+It has a role as receptor agonist.
+Related to thyroid hormone synthesis.
+Considered to be a lipid molecule.
+It has a role as lipid-lowering agent.
+It contains unsaturated fatty acid anion.
+It contains saturated fatty acid anion.
+Used as a herbicide.
+Can be found in fruits, herbs and spices.
+It is a member of benzoic acids.
+It has a role as a vitamin.
+It is a dopamine agonist.
+It is a dopamine antagonist.
+It has a role as a coenzyme.
+It has a role as a marine metabolite.
+It has a role as a persistent organic pollutant.
+It has the function of a radioactive imaging agent.
+It has a role as prevent oxidation and free radical formation.
+Easy to be decomposed when heated.
+It plays a key role in redox activity.
+It has a role as antioxidant.
+It has a role as oxidizing agent.
+It is extremely flammable.
+It belongs to steroid.
+It belongs to chloride.
+It belongs to inorganic.
+It belongs to sulfate.
+It belongs to phosphate.
+It belongs to ammonium.
+It belongs to cyanide.
+It is a member of benzenes
