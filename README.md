@@ -98,12 +98,6 @@ Run the script and you will get the fine-tuned model and encoding result for the
 
 In Ret/data/ directory, you can see `PCdes_for_human.txt` which is PCdes test example that we provide to human professional annotators.
 
-## Results
-
-Change the random seed in the .py files and calculate the average score for the tasks above. We provide experiment results from our paper for reference:
-
-![main result]('main_result.png')
-
 ## Demo
 
 We provide a simple demo for versatile reading exploring. Download the `ckpt_ret01.pt` and put it under `save_model/` directory. Run `python demo_matching.py` and input your SMILES string and description sentence following the instruction. Set `if_cuda=False` if there is no GPU available, and the model loading will take around 30 s.
