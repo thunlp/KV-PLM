@@ -103,3 +103,61 @@ In Ret/data/ directory, you can see `PCdes_for_human.txt` which is PCdes test ex
 Change the random seed in the .py files and calculate the average score for the tasks above. We provide experiment results from our paper for reference:
 
 ![main result]('main_result.png')
+
+## Demo
+
+We provide a simple demo for versatile reading exploring. Download the `ckpt_ret01.pt` and put it under `save_model/` directory. Run `python demo_matching.py` and input your SMILES string and description sentence following the instruction. Set `if_cuda=False` if there is no GPU available, and the model loading will take around 30 s.
+
+There are some examples:
+```
+INP
+- SMILES: CC(CN)O
+- description: It is an amino alcohol and a secondary alcohol.
+OUT
+- matching score: 0.8025(True)
+
+INP
+- SMILES: CC(CN)O
+- description: A hydroxy acid with anti-inflammatory effect.
+OUT
+- matching score: 0.4086(False)
+
+INP
+- SMILES: C(CCl)Cl
+- description: flammable liquid with a pleasant smell.
+OUT
+- matching score: 0.5849(True)
+
+INP
+- SMILES: OC(=O)C1=CC=CC=C1O
+- description: a clear colorless liquid with a pungent odor.
+OUT
+- matching score: 0.2279(False)
+
+INP
+- SMILES: OC(=O)C1=CC=CC=C1O
+- description: A hydroxy acid with anti-inflammatory effect. It has a role as metabolite.
+OUT
+- matching score: 0.4795(True)
+
+INP
+- SMILES: OC(=O)C1=CC=CC=C1O
+- description: appears as pale yellow needles, almond odor.
+OUT
+- matching score: 0.4499(True)
+```
+
+You can also test the matching score between two SMILES strings:
+```
+INP
+- SMILES: OC(=O)C1=CC=CC=C1O
+- description: C1=CC=C(C(=C1)C(=O)O)O
+OUT
+- matching score: 0.7464(True)
+
+INP
+- SMILES: C1=CC=C(C(=C1)C(=O)O)O
+- description: C1(C(C(=O)OC1C(C(=O)O)O)O)O
+OUT
+- matching score: 0.1287(False)
+```

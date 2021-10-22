@@ -209,7 +209,7 @@ def parse_args(parser=argparse.ArgumentParser()):
     parser.add_argument("--init_checkpoint", default=None, type=str,)
     parser.add_argument("--pth_data", default='NER/', type=str,)
     parser.add_argument("--weight_decay", default=0, type=float,)
-    parser.add_argument("--lr", default=5e-5, type=float,)
+    parser.add_argument("--lr", default=3e-5, type=float,)
     parser.add_argument("--warmup", default=0.2, type=float,)
     parser.add_argument("--total_steps", default=1000, type=int,)
     parser.add_argument("--batch_size", default=16, type=int,)

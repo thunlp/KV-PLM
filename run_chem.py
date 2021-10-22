@@ -191,7 +191,7 @@ def parse_args(parser=argparse.ArgumentParser()):
     parser.add_argument("--save_pth", default='save_model/', type=str,)
     parser.add_argument("--resume", default=-1, type=int,)
     parser.add_argument("--weight_decay", default=0, type=float,)
-    parser.add_argument("--lr", default=4e-5, type=float,)
+    parser.add_argument("--lr", default=2e-5, type=float,)
     parser.add_argument("--warmup", default=0.2, type=float,)
     parser.add_argument("--total_steps", default=2000, type=int,)
     parser.add_argument("--pth_train", default='chemprot/predata/train', type=str,)

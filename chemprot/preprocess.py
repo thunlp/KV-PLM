@@ -5,7 +5,7 @@ import random
 import numpy as np
 
 tokenizer0 = BertTokenizer.from_pretrained('allenai/scibert_scivocab_uncased')
-'''
+
 tokenizer0.vocab.pop('[unused1]')
 tokenizer0.vocab.pop('[unused2]')
 tokenizer0.vocab.pop('[unused3]')
@@ -17,7 +17,7 @@ tokenizer0.vocab[']]']=4
 
 special_tokens_dict = {'additional_special_tokens': ['<<','>>','[[',']]']}
 tokenizer0.add_special_tokens(special_tokens_dict)
-'''
+
 
 import sys
 import json
