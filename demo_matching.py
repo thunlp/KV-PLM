@@ -24,9 +24,11 @@ class BigModel(nn.Module):
 
 bert_model0 = BertForPreTraining.from_pretrained('allenai/scibert_scivocab_uncased')
 model = BigModel(bert_model0.bert)
-model.load_state_dict(torch.load('save_model/ckpt_ret01.pt'))
 if if_cuda:
+    model.load_state_dict(torch.load('save_model/ckpt_ret01.pt'))
     model = model.cuda()
+else:
+    model.load_state_dict(torch.load('save_model/ckpt_ret01.pt', map_location=torch.device('cpu') ))
 model.eval()
 while True:
     SM = input("SMILES string: ")
