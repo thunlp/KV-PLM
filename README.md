@@ -14,7 +14,14 @@ conda create -n KV python=3.6
 conda activate KV
 sh scripts/conda_environment.sh
 ```
-- Step 4: Check the `python demo_matching.py` file and set `if_cuda=False` if there is no GPU available.
+- Step 4: Check the `demo_matching.py` file and set `if_cuda=False` in line 7 if there is no GPU available. Run the command:
+```
+python demo_matching.py
+```
+  And then explore the versatile reading task following the instructions of the program:
+```
+
+```
 
 ## Requirements
 
