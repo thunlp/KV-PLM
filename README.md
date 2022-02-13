@@ -8,7 +8,7 @@ If you want to quickly explore our job or do not have much deep-learning experie
 
 - Step 1: Download the zip or clone the repository to your workspace.
 - Step 2: Download the `ckpt_ret01.pt` from [googledrive](https://drive.google.com/drive/folders/1xig3-3JG63kR-Xqj1b9wkPEdxtfD_4IX?usp=sharing). Create a new directory by `mkdir save_model` and then put the downloaded model under `save_model/` directory.
-- Step 3: Install Anaconda (py3) and then create a conda environment by the following command (remember to input 'y' when asked 'Proceed ([y]/n)? '):
+- Step 3: Install Anaconda (py3) and then create a conda environment by the following command (remember to input 'y' when asked `Proceed ([y]/n)? `):
 ```
 conda create -n KV python=3.6
 conda activate KV
@@ -20,9 +20,16 @@ sh scripts/conda_environment.sh
 python demo_matching.py
 ```
   And then explore the versatile reading task following the instructions of the program:
-```
+~~~bash
+# input the SMILES string and the textual description you want to match and then type enter
+SMILES_string: >> CC(CN)O
+description: >> It is an amino alcohol and a secondary alcohol.
+# the program will return a score between 0 and 1 (higher is more similar)
+Matching_score =  0.8025086522102356
 
-```
+# automatically loop until you type control+C
+SMILES_string: >>
+~~~
 
 ## Requirements
 
