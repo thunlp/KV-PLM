@@ -2,6 +2,20 @@
 
 Source code for *A Deep-learning System Bridging Molecule Structure and Biomedical Text with Comprehension Comparable to Human Professionals*. Our operating system is Ubuntu 16.04. For training process, the 2080 Ti GPU is used.
 
+## Simplified Instruction
+
+If you want to quickly explore our job or do not have much deep-learning experience, you can simply follow the instructions in this section.
+
+- Step 1: Download the zip or clone the repository to your workspace.
+- Step 2: Download the `ckpt_ret01.pt` from [googledrive](https://drive.google.com/drive/folders/1xig3-3JG63kR-Xqj1b9wkPEdxtfD_4IX?usp=sharing) and put it under `save_model/` directory.
+- Step 3: Install Anaconda (py3) and then create a conda environment by the following command:
+```
+conda create -n KV python=3.6
+conda activate KV
+sh scripts/conda_environment.sh
+```
+- Step 4: Check the `python demo_matching.py` file and set `if_cuda=False` if there is no GPU available.
+
 ## Requirements
 
 - torch==1.6.0
