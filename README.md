@@ -23,7 +23,7 @@ sh scripts/conda_environment.sh
 
 ## Download
 
-Before running the code, please [download](https://drive.google.com/drive/folders/1xig3-3JG63kR-Xqj1b9wkPEdxtfD_4IX?usp=sharing) the pre-trained models and put them under save\_model/ .
+KV-PLM and other pre-trained models can be downloaded from [googledrive](https://drive.google.com/drive/folders/1xig3-3JG63kR-Xqj1b9wkPEdxtfD_4IX?usp=sharing). We recommend you to download the models and put them under save\_model/ before running the code.
 
 If you are going to run the code without the pre-training models above, please choose 'Sci-BERT' mode for $MODEL.
 
