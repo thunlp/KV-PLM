@@ -7,13 +7,14 @@ Source code for *A Deep-learning System Bridging Molecule Structure and Biomedic
 If you want to quickly explore our job or do not have much deep-learning experience, you can simply follow the instructions in this section.
 
 - Step 1: Download the zip or clone the repository to your workspace.
-- Step 2: Download the `ckpt_ret01.pt` from [googledrive](https://drive.google.com/drive/folders/1xig3-3JG63kR-Xqj1b9wkPEdxtfD_4IX?usp=sharing) and put it under `save_model/` directory.
-- Step 3: Install Anaconda (py3) and then create a conda environment by the following command:
+- Step 2: Download the `ckpt_ret01.pt` from [googledrive](https://drive.google.com/drive/folders/1xig3-3JG63kR-Xqj1b9wkPEdxtfD_4IX?usp=sharing). Create a new directory by `mkdir save_model` and then put the downloaded model under `save_model/` directory.
+- Step 3: Install Anaconda (py3) and then create a conda environment by the following command (remember to input 'y' when asked 'Proceed ([y]/n)? '):
 ```
 conda create -n KV python=3.6
 conda activate KV
 sh scripts/conda_environment.sh
 ```
+  Note that there may be error when installing transformers if you're using MacOS. See [here](https://github.com/huggingface/transformers/issues/2831) for help.
 - Step 4: Check the `demo_matching.py` file and set `if_cuda=False` in line 7 if there is no GPU available. Run the command:
 ```
 python demo_matching.py
