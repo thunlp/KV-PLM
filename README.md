@@ -1,6 +1,6 @@
 # KV-PLM
 
-Source code for *A Deep-learning System Bridging Molecule Structure and Biomedical Text with Comprehension Comparable to Human Professionals*. Our operating system is Ubuntu 16.04. For training process, the 2080 Ti GPU is used.
+Source code for *[A Deep-learning System Bridging Molecule Structure and Biomedical Text with Comprehension Comparable to Human Professionals](https://www.nature.com/articles/s41467-022-28494-3)* on Nat.Commun. Our operating system is Ubuntu 16.04. For training process, the 2080 Ti GPU is used.
 
 ## Simplified Instruction
 
@@ -183,4 +183,18 @@ INP
 - description: C1(C(C(=O)OC1C(C(=O)O)O)O)O
 OUT
 - matching score: 0.1287(False)
+```
+
+## Citation
+Please cite our paper if you find it helpful.
+```
+@article{zeng2022deep,
+    title={A Deep-learning System Bridging Molecule Structure and Biomedical Text with Comprehension Comparable to Human Professionals},
+    author={Zheni Zeng, Yuan Yao, Zhiyuan Liu, Maosong Sun},
+    year={2022},
+    journal={Nature communications},
+    volume={13},
+    number={862},
+    publisher={Nature Publishing Group}
+}
 ```
