@@ -90,7 +90,7 @@ The users may be going to use the files below:
 
 ## Data Preprocessing
 
-Switch to scripts/ directory and run the following command to pre-process the raw data:
+Switch to scripts/ directory and run the following command to pre-process the raw data (remember to create the 'Ret/Sci' file before running):
 
 `sh data_preprocessing.sh`
 
