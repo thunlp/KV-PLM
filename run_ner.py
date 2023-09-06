@@ -28,7 +28,7 @@ class BigModel(nn.Module):
         self.classifier = nn.Linear(config.hidden, 3)
         
     def forward(self, tokens, token_type_ids, attention_mask, pos=None):
-        encoded = self.bert(tokens, token_type_ids, attention_mask)['last_hidden_state']
+        encoded = self.bert(tokens, token_type_ids=token_type_ids, attention_mask=attention_mask)['last_hidden_state']
         output = self.dropout(encoded)
         return self.classifier(output)
         
